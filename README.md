@@ -11,17 +11,16 @@
 
 ### ⚙ Endpoints RESTful
 - POST /tasks 
-- Estados:
-<br> PUT /tasks/{id}/start 
-<br> PUT /tasks/{id}/complete 
-<br> PUT /tasks/{id}/cancel 
-<br> GET /tasks/{id} 
+- PUT /tasks/{id}/start 
+- PUT /tasks/{id}/complete 
+- PUT /tasks/{id}/cancel 
+- GET /tasks/{id} 
 
 <br/>
 
-## ✨ Sistema de Gerenciamento de Estados de Tarefas
+## 🔮 Sistema de Gerenciamento de Estados de Tarefas
 
-🌟Siga estas etapas para usar esse projeto:
+🌟 Siga estas etapas para usar esse projeto:
 - Baixe ou clone esse repositório
 - No terminal digite o comando para criar o banco de dados:
 
@@ -30,7 +29,7 @@
   ```
 ### ❗ Atenção 
 
-🌟O projeto já possui uma migration BD. Caso não tenha, utilize os seguintes comandos:
+🌟 O projeto já possui uma migration BD. Caso não tenha, utilize os seguintes comandos:
   ```
   add-migration teste
 --
